@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m Thiwanka Lochana
+- 👋 Hi, I’m @Thiwanka49
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning at SLIIT...
 -  💬 Ask me about**HTML** **CSS** **JS** **PHP** **MongoDB** **Express** **React JS** **Node JS**
