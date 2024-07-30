@@ -3,10 +3,10 @@
 
 
 
-- 👋 Hi, I’m @Thiwanka49
+- 👋 Hi, I’m Thiwanka Lochana
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning at SLIIT...
--  💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
+-  💬 Ask me about**HTML** **CSS** **JS** **PHP** **MongoDB** **Express** **React JS** **Node JS**
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
