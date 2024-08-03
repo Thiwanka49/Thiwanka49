@@ -27,7 +27,7 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
 
-
+<img align="center" src="https://camo.githubusercontent.com/42080bef5332e4db28d7e26c835b020f740ac382183732119990e261fa2ab53b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d766973687661616c6f6b61267468656d653d6461726b2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=vishvaaloka&amp;theme=dark&amp;show_icons=true&amp;count_private=true" style="max-width: 100%;">
 
 
 
