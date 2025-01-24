@@ -20,7 +20,7 @@
 - 👋 Hi, I’m @Thiwanka49
 - 👀 I’m interested in coding...
 - 🌱 I’m currently learning at SLIIT...
--  📫 How to reach me **thiwankalochana45@gmail.com**
+-  📫 How to reach me **thiwankalochana378@gmail.com**
 -  💬 Ask me about **HTML** **CSS** **JS** **JAVA** **PHP** **MongoDB** **Express** **React JS** **Node JS**
 </br></br><p align="center"> <img src="https://komarev.com/ghpvc/?username=thiwanka49&label=Profile%20views&color=0e75b6&style=flat" alt="thiwanka49" /> </p>
 
