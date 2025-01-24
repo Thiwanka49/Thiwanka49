@@ -47,7 +47,7 @@
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<img align="center" src="[https://img.icons8.com/?size=48&id=YzbiF8mqg9Gz&format=png](https://www.svgrepo.com/show/448234/linkedin.svg"  height="30" width="40" /></a>
+<img align="center" src="https://img.icons8.com/?size=48&id=YzbiF8mqg9Gz&format=png](https://www.svgrepo.com/show/448234/linkedin.svg"  height="30" width="40" /></a>
 
 </p>
 
