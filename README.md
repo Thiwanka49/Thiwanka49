@@ -47,7 +47,14 @@
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<img align="center" href="https://stackoverflow.com/users/28881267/thiwanka-lochana"src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg"  height="30" width="40" />
-
+  <a href="https://stackoverflow.com/users/28881267/thiwanka-lochana" target="_blank">
+    <img 
+      src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" 
+      height="30" 
+      width="40" 
+      alt="Stack Overflow"
+    />
+  </a>
 </p>
+
 
