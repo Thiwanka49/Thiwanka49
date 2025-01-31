@@ -54,19 +54,7 @@
       width="40" 
       alt="Stack Overflow"
     />
-  </a>
-
-  <a href="thiwankalochana378@gmail.com" target="_blank">
-    <img 
-      src="https://www.svgrepo.com/show/452213/gmail.svg" 
-      height="30" 
-      width="40" 
-      alt="Gmail"
-    />
-  </a>
-</p>
-
-  
+  </a> 
 </p>
 
 
