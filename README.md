@@ -56,7 +56,7 @@
     />
   </a>
 
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="thiwankalochana378@gmail.com" target="_blank">
     <img 
       src="https://www.svgrepo.com/show/452213/gmail.svg" 
       height="30" 
