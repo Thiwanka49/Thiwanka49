@@ -53,10 +53,10 @@
       height="30" 
       width="40" 
       alt="Stack Overflow"
-    /></a>
+    />
      
-    
-    <img 
+   
+  <img 
       src="https://www.svgrepo.com/show/452213/gmail.svg" 
       height="30" 
       width="40" 
