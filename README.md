@@ -54,6 +54,18 @@
       width="40" 
       alt="Stack Overflow"
     />
+     <img 
+      src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" 
+      height="30" 
+      width="40" 
+      alt="Stack Overflow"
+    />
+    <img 
+      src="https://www.svgrepo.com/show/475686/stackoverflow-color.svg" 
+      height="30" 
+      width="40" 
+      alt="Gmail"
+    />
   </a>
 </p>
 
